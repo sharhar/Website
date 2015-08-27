@@ -1,0 +1,22 @@
+<html>
+	<head>
+		<title>
+			Shahar's Pi
+		</title>
+		<link href="css/main.css" rel="stylesheet" type="text/css"/>
+	</head>
+	<body link="red">
+		<h1>Shahar's Pi</h1>
+		
+		<header>
+			<nav>
+				<ul>
+					<li><a href="#" >Home</a></li>
+					<li><a href="/files/" >Storage</a></li>
+					<li><a href="about.html" >About</a></li>		
+				</ul>
+			</nav>
+		</header>
+		
+	</body>
+</html>

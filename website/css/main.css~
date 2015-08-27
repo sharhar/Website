@@ -1,0 +1,29 @@
+body {
+	background-color: #C9C9C9;
+	font-family: arial;
+}
+			
+a {
+	/*font-size: 30px;*/
+	text-decoration: none;			
+}
+
+			/* unvisited link */
+a:link {
+    color: #3030FF;
+}	
+
+/* visited link */
+a:visited {
+    color: #3030FF;
+}
+
+/* mouse over link */
+a:hover {
+    color: #7070FF;
+}
+
+/* selected link */
+a:active {
+    color: #D0D0FF;
+}
